@@ -1,3 +1,4 @@
-Trabajo en equipo
+Trabajo Colaborativo
 
- Alejandro Marincioni
+Alejandro Marincioni
+Nahuel Eghar Coronel
