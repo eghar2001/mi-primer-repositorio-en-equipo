@@ -1,2 +1,3 @@
-# mi-primer-repositorio-en-equipo
-no es mi primer repositorio pero si en equipo
+Trabajo en equipo
+
+ Alejandro Marincioni
